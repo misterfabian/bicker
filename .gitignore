@@ -1,0 +1,21 @@
+# web
+.DS_Store
+.routify
+.vscode
+*.log
+build
+node_modules
+package-lock.json
+secrets.js
+.env
+
+# firebase
+.firebase
+.firebaserc
+
+# xcode
+xcuserdata
+*.xcworkspace
+Pods
+Podfile.lock
+GoogleService-Info.plist
